@@ -359,7 +359,7 @@ nav{
 
 @media screen and (max-width: 800px) {
   :root{
-    --nav-size: 50px;
+    --nav-size: 30%;
 
     --sudoku-cell-size: 30px;
 
