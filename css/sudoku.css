@@ -181,7 +181,6 @@ nav{
 /* main-game */
 .main-game{
   display: flex;
-  height: 100%;
   flex-direction: column;
   justify-content: space-between;
   padding: 30px 0;

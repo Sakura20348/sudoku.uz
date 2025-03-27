@@ -196,7 +196,7 @@ const checkErr = (value) =>{
     }
 
     step = 9;
-    while(index + step >= 81){
+    while(index + step < 81){
         addErr(cells[index + step]);
         step += 9;
     }
